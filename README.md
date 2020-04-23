@@ -14,3 +14,9 @@
     -
 ## API Being used is from Heroku App
 http://makeup-api.herokuapp.com/api/v1/products.json
+
+## Pseudocode
+User will land on home page
+user will type in a makeup brand or type
+that brand will be saved and called
+a portion of the screen will refresh and display the requested information.
