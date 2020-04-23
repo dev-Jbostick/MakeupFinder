@@ -7,8 +7,10 @@
     - results will load on the same page.
 
 ## Stateless Components
+    - Header
+    - Navigation
+    - Main content
+    - Footer
     -
-    -
-    -
-    -
-    -
+## API Being used is from Heroku App
+http://makeup-api.herokuapp.com/api/v1/products.json
