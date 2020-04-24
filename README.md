@@ -1,4 +1,4 @@
-# Makeup Finder
+*Title* Makeup Finder
 
 ## Purpose - The purpose of this site is to allow users to search makeup products. The search will return information about that product.
 
